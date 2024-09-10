@@ -1,0 +1,24 @@
+﻿@model Lab02_Mvc_Valverde_B.Models.ClsDispensador
+@{
+    ViewBag.Title = "Index";
+}
+
+<title>Index</title>
+<body>
+    <div>
+        <CENTER>
+            <h1>Dispensador de Billetes</h1>
+            <br />
+            <br />
+            @using (Html.BeginForm("CalcularBilletes","Dispensador", FormMethod.Post))
+            {
+                @Html.Label("Ingrese Monto:")
+                @Html.EditorFor(Model=>Model.monto)<br />
+                
+                <input type="submit" value="Calcular"/>
+
+            }
+        </CENTER>
+    </div>
+</body>>
+

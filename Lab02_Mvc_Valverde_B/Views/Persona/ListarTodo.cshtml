@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Lab02_Mvc_Valverde_B.Models.ClsPersonas>
+@{
+    ViewBag.Title = "ListarTodo";
+    int numero = 1;
+}
+
+<h2><center>ListarTodo</center></h2>
+<body>
+    <div>
+        <center>
+            <h1>Lista de personas</h1>
+            <br />
+            <table border="1" bordercolor="#0000FF">
+                <tr>
+                    <th>OrdenLista</th>>
+                    <th>DNI:</th>
+                    <th>Apellidos:</th>
+                    <th>Nombre:</th>
+                    <th>Talla:</th>
+                    <th>Edad:</th>
+                    <th>Sexo:</th>
+                    <th>Peso:</th>
+                    </tr>
+                @foreach(var item in Model)
+            {
+                <tr>
+                    <td>@(numero++)</td>
+                    <td>@Html.DisplayFor(model=>item.DNI)</td>
+                    <td>@Html.DisplayFor(model => item.Apellido)</td>
+                    <td>@Html.DisplayFor(model => item.Nombre)</td>
+                    <td>@Html.DisplayFor(model => item.Talla)</td>
+                    <td>@Html.DisplayFor(model => item.Edad)</td>
+                    <td>@Html.DisplayFor(model => item.Sexo)</td>
+                    <td>@Html.DisplayFor(model => item.Peso)</td>
+                </tr>
+            }
+</table>
+
+
+        </center>
+    </div>
+
+</body>
+

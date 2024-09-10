@@ -1,0 +1,30 @@
+﻿@model Lab02_Mvc_Valverde_B.Models.ClsDispensador
+@{
+    ViewBag.Title = "CalcularBilletes";
+}
+
+<title>Dispensador de Billetes</title>
+<body>
+<div>
+    <center>
+        <h1>Dispensador de Billetes</h1>
+        <br />
+        <label>Monto: </label>@Model.monto<br />
+        <br />
+        <label>Billete de 100:</label>@Model.b100<br />
+        <label>Billete de 50:</label>@Model.b50<br />
+        <label>Billete de 20:</label>@Model.b20<br />
+        <label>Billete de 10:</label>@Model.b10<br />
+        <label>Moneda de 5: </label>@Model.b5<br />
+        <label>Moneda de 2: </label>@Model.b2<br />
+        <label>Moneda de 1: </label>@Model.b1<br />
+        <label>Moneda de 0.5: </label>@Model.b050<br />
+        <label>Moneda de 0.2: </label>@Model.b020<br />
+        <label>Moneda de 0.1: </label>@Model.b010<br />
+        <br />
+        <br />
+        <label>Cantidad:</label>@Model.cantidad<br />
+    </center>
+</div>
+</body>>
+

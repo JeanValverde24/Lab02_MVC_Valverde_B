@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|c:\\users\\hp\\source\\repos\\lab02_mvc_valverde_b\\lab02_mvc_valverde_b\\views\\dispensador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|solutionrelative:lab02_mvc_valverde_b\\views\\dispensador\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|c:\\users\\hp\\source\\repos\\lab02_mvc_valverde_b\\lab02_mvc_valverde_b\\views\\dispensador\\calcularbilletes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|solutionrelative:lab02_mvc_valverde_b\\views\\dispensador\\calcularbilletes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|c:\\users\\hp\\source\\repos\\lab02_mvc_valverde_b\\lab02_mvc_valverde_b\\views\\persona\\listartodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|solutionrelative:lab02_mvc_valverde_b\\views\\persona\\listartodo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|c:\\users\\hp\\source\\repos\\lab02_mvc_valverde_b\\lab02_mvc_valverde_b\\views\\persona\\mostraruno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|solutionrelative:lab02_mvc_valverde_b\\views\\persona\\mostraruno.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|c:\\users\\hp\\source\\repos\\lab02_mvc_valverde_b\\lab02_mvc_valverde_b\\controllers\\dispensadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|solutionrelative:lab02_mvc_valverde_b\\controllers\\dispensadorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|c:\\users\\hp\\source\\repos\\lab02_mvc_valverde_b\\lab02_mvc_valverde_b\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|solutionrelative:lab02_mvc_valverde_b\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|c:\\users\\hp\\source\\repos\\lab02_mvc_valverde_b\\lab02_mvc_valverde_b\\models\\clsdispensador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|solutionrelative:lab02_mvc_valverde_b\\models\\clsdispensador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|c:\\users\\hp\\source\\repos\\lab02_mvc_valverde_b\\lab02_mvc_valverde_b\\models\\clspersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{171B1754-BF5A-468B-ACB2-AF2D0A10304F}|Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B.csproj|solutionrelative:lab02_mvc_valverde_b\\models\\clspersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalcularBilletes.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Views\\Dispensador\\CalcularBilletes.cshtml",
+              "RelativeDocumentMoniker": "Lab02_Mvc_Valverde_B\\Views\\Dispensador\\CalcularBilletes.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Views\\Dispensador\\CalcularBilletes.cshtml",
+              "RelativeToolTip": "Lab02_Mvc_Valverde_B\\Views\\Dispensador\\CalcularBilletes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T00:32:39.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Views\\Dispensador\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab02_Mvc_Valverde_B\\Views\\Dispensador\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Views\\Dispensador\\Index.cshtml",
+              "RelativeToolTip": "Lab02_Mvc_Valverde_B\\Views\\Dispensador\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T00:28:19.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DispensadorController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Controllers\\DispensadorController.cs",
+              "RelativeDocumentMoniker": "Lab02_Mvc_Valverde_B\\Controllers\\DispensadorController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Controllers\\DispensadorController.cs",
+              "RelativeToolTip": "Lab02_Mvc_Valverde_B\\Controllers\\DispensadorController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:17:26.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ClsDispensador.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Models\\ClsDispensador.cs",
+              "RelativeDocumentMoniker": "Lab02_Mvc_Valverde_B\\Models\\ClsDispensador.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Models\\ClsDispensador.cs",
+              "RelativeToolTip": "Lab02_Mvc_Valverde_B\\Models\\ClsDispensador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T00:15:21.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ListarTodo.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Views\\Persona\\ListarTodo.cshtml",
+              "RelativeDocumentMoniker": "Lab02_Mvc_Valverde_B\\Views\\Persona\\ListarTodo.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Views\\Persona\\ListarTodo.cshtml",
+              "RelativeToolTip": "Lab02_Mvc_Valverde_B\\Views\\Persona\\ListarTodo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T23:58:31.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MostrarUno.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Views\\Persona\\MostrarUno.cshtml",
+              "RelativeDocumentMoniker": "Lab02_Mvc_Valverde_B\\Views\\Persona\\MostrarUno.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Views\\Persona\\MostrarUno.cshtml",
+              "RelativeToolTip": "Lab02_Mvc_Valverde_B\\Views\\Persona\\MostrarUno.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T23:54:16.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "Lab02_Mvc_Valverde_B\\Controllers\\PersonaController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "Lab02_Mvc_Valverde_B\\Controllers\\PersonaController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwFcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:40:57.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClsPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Models\\ClsPersonas.cs",
+              "RelativeDocumentMoniker": "Lab02_Mvc_Valverde_B\\Models\\ClsPersonas.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\Lab02_Mvc_Valverde_B\\Lab02_Mvc_Valverde_B\\Models\\ClsPersonas.cs",
+              "RelativeToolTip": "Lab02_Mvc_Valverde_B\\Models\\ClsPersonas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T23:38:45.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
